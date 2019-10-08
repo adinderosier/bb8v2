@@ -1,3 +1,7 @@
+//Adin De'Rosier
+//8.4.2014
+//bb8duino v1
+
 #include "DualVNH5019MotorShield.h"
 DualVNH5019MotorShield md;
 /*
